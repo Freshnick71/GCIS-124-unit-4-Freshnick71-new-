@@ -1,0 +1,1 @@
+--module-path /home/bco7480/GCIS-124/unit-4-Freshnick71-1/VMAR/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml,javafx.media
